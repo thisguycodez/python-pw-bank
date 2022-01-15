@@ -1,4 +1,4 @@
-# Learning Python With Projects (Hang Man) 
+# Learning Python With Projects (Password Bank) 
 > Syntax - Comments, Prints, Variables, Strings, Integers, String Concatenations, Inputs, Comparison operators, Functions, If/Else statements. For loops, List(arrays), getpass, XOR(exclusive or) algorithim, bytearray, bytes, and "open,read,close"(file handling).
 
 > https://youtu.be/oN63xZ99JSw
